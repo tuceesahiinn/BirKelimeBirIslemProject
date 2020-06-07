@@ -1,0 +1,18 @@
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.exe.config
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.exe
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.pdb
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.Properties.Resources.resources
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.csproj.GenerateResource.cache
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.exe
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.pdb
+C:\Users\demo\Desktop\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.BirKelimeBirIslem.resources
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.exe.config
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\bin\Debug\YazilimYapimi.pdb
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.BirKelimeBirIslem.resources
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.Properties.Resources.resources
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.csproj.GenerateResource.cache
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.exe
+C:\Users\demo\Desktop\CBÜ YAZILIM\2. Sınıf\2019-2020 Bahar\Yazılım Yapımı\ProjeVizeFinal\YazilimYapimi\YazilimYapimi\obj\Debug\YazilimYapimi.pdb

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>İŞLEM OYUNUNA HOŞ GELDİNİZ
+
+İşlem oyununda size iki seçenek sunulmuştur. 
+
+1. Random Sayilar
+	Oyunu böyle oynamak isterseniz Sayi Uret butonuna tıklamanız gerekmektedir. Sistem size bulunacak sayı ve kullanılacak sayıları random üreterek verir. Daha sonra kullanmak istediğiniz sayıyı çift tıklayarak işlem yapılacak kısma taşıyabilirsiniz ardından yapılacak işlemi seçebilirsiniz. Her işlemden sonra Islem Yap butonuna tıklamanız gerekmektedir. Yaptığınız işlemlerden sonra sonuc kısmına bulduğunuz sonucu yazıp Puanlama butonuna tıklarsanız kaç puan aldığınızı görebilirsiniz.
+
+2. Kullanicinin Girdigi Sayilar
+	Eğer oyunu böyle oynamak isterseniz de Sayi Uret butonu pasif kalacaktır. Bulunacak sayı ve kullanılacak sayıları siz manuel olarak girebileceksiniz. Daha sonra kullanmak istediğiniz sayıyı çift tıklayarak işlem yapılacak kısma taşıyabilirsiniz ardından yapılacak işlemi seçebilirsiniz. Her işlemden sonra Islem Yap butonuna tıklamanız gerekmektedir. Yaptığınız işlemlerden sonra sonuc kısmına bulduğunuz sonucu yazıp Puanlama butonuna tıklarsanız kaç puan aldığınızı görebilirsiniz. 
+
+PUANLAMA
+	Bulunacak sayi ve bulduğunuz sayı arasında (+/-) 9 fark olabilir. 
+DİPNOT
+	İşlem yapılacak kısımdaki sayıların üzerlerine tek tıklarsanız sayıları silebilirsiniz. 
+	Yeniden oynamak istiyorsanız da Yeni Oyun butonuna basmanız yeterli olacaktır.
+	Sayıyı bulurken bütün rakamların kullanımına gerek yoktur.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>KELİME OYUNUNA HOŞ GELDİNİZ
+
+Kelime oyununda size iki seçenek sunulmuştur. 
+
+1. Random Harfler
+	Oyunu böyle oynamak isterseniz Harf Uret butonuna tıklamanız gerekmektedir. Sistem size kullanılacak harfleri random üreterek verir. Ayrıca eğer isterseniz joker harf girme şansınız vardır. Daha sonra kullanmak istediğiniz harfi çift tıklayarak kelime üretilecek kısma taşıyabilirsiniz. Ürettiğiniz kelimeden sonra Kelime Olustur butonuna tıklamanız gerekmektedir. Sistem ardından anlamlı Türkçe kelime olup olmadığına bakar eğer bulursa kırmızı renk ile belirtir. Puanlama butonuna tıklarsanız kaç puan aldığınızı görebilirsiniz.
+
+2. Kullanicinin Girdigi Sayilar
+	Eğer oyunu böyle oynamak isterseniz de Harf Uret butonu pasif kalacaktır. Kullanılacak harfleri siz manuel olarak girebileceksiniz. Ayrıca eğer isterseniz joker harf girme şansınız vardır. Daha sonra kullanmak istediğiniz harfi çift tıklayarak kelime üretilecek kısma taşıyabilirsiniz. Ürettiğiniz kelimeden sonra Kelime Olustur butonuna tıklamanız gerekmektedir. Sistem ardından anlamlı Türkçe kelime olup olmadığına bakar eğer bulursa kırmızı renk ile belirtir. Puanlama butonuna tıklarsanız kaç puan aldığınızı görebilirsiniz.
+
+PUANLAMA
+	3 harf = 3 puan, 4 harf = 4 puan, 5 harf = 5 puan, 6 harf = 7 puan, 7 harf = 9 puan, 8 harf = 11 puan, 9 harf = 15 puan
+DİPNOT
+	Amaç daha fazla puan toplamak olduğundan daha fazla harften oluşan kelime bulmak avantajlıdır.
+	Yeniden oynamak istiyorsanız Yeni Oyun butonuna basmanız yeterli olacaktır.
+	Kelimeyi bulurken bütün harflerin kullanımına gerek yoktur.</value>
+  </data>
+</root>
